@@ -6,6 +6,11 @@ The directory you use to compress the files is where it will unzip in the WordPr
 
 To install this compress this entire directory and upload via WordPress admin theme uploader.
 
+## Crazy problem to avoid
+
+Putting an svg with an xml declaration into one of the theme php files will make the theme unusable. Avoid including this in your HTML that is directly in a php file if you want your theme to work
+
+
 ## Details on these starter kit
 
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
