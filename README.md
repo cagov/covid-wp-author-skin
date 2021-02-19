@@ -1,3 +1,13 @@
+This theme is built from a starter kit whose details are below.
+
+When installing on WordPress the theme name displayed is derived from comments at the top of the style.css file.
+
+The directory you use to compress the files is where it will unzip in the WordPress install and how it determines if it is updating an existing theme or creating a new one. If you change the directory name it will install a new theme with the same name with no problems other than a confusing list of themes.
+
+To install this compress this entire directory and upload via WordPress admin theme uploader.
+
+## Details on these starter kit
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
